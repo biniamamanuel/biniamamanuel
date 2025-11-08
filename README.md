@@ -13,6 +13,6 @@
 
 ---
 
-### 🌟 Personal website [Don't make me sleep](geezcodesolutions.com)
+### 🌟 Personal website [Don't make me sleep](https://geezcodesolutions.com)
 
 ✨ *Building community, learning, and creating with purpose.*  
