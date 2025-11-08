@@ -5,7 +5,7 @@
 - Co-Founder of **geezcodesolutions**, where I share tools, insights, and cool projects 🧠🚀  
 
 - 🧩 You can connect with me on  
-  [[LinkedIn](biniamamanuel), [Twitter](qegnet), or reach me directly via email biniamamanuelt@hotmail.com📧  
+  [[LinkedIn](https://linkedin.com/in/biniamamanuel), [Twitter](https://x.com/qegnet), or reach me directly via email biniamamanuelt@hotmail.com📧  
 
 - ⚡ I love exploring **automation**, **coding**, and **financial tech** — and I’m always learning something new 📈💡  
 
@@ -13,7 +13,6 @@
 
 ---
 
-### 🌟 Personal website  
-[Don't make me sleep](geezcodesolutions)
+### 🌟 Personal website [Don't make me sleep](geezcodesolutions.com)
 
 ✨ *Building community, learning, and creating with purpose.*  
