@@ -5,7 +5,7 @@
 - Co-Founder of **geezcodesolutions**, where I share tools, insights, and cool projects 🧠🚀  
 
 - 🧩 You can connect with me on  
-  [[LinkedIn](#), [Twitter](#), or reach me directly via email biniamamanuelt@hotmail.com📧  
+  [[LinkedIn](biniamamanuel), [Twitter](qegnet), or reach me directly via email biniamamanuelt@hotmail.com📧  
 
 - ⚡ I love exploring **automation**, **coding**, and **financial tech** — and I’m always learning something new 📈💡  
 
@@ -14,21 +14,6 @@
 ---
 
 ### 🌟 Personal website  
-[Biniam Portfolio](#)
-
----
-
-### 📊 Biniam Amanuel’s GitHub Stats  
-
-⭐ **Total Stars Earned:** 64  
-🧠 **Total Commits (last year):** 44  
-🔧 **Total PRs:** 96  
-🐞 **Total Issues:** 36  
-📅 **Contributed to (last year):** 0  
-
-🟣 **Grade:** B+
-
----
+[Don't make me sleep](geezcodesolutions)
 
 ✨ *Building community, learning, and creating with purpose.*  
--->
