@@ -13,6 +13,6 @@
 
 ---
 
-### 🌟 Personal website [Don't make me sleep](geezcodesolutions.netlify.app)
+### 🌟 Personal website [Don't make me sleep](https://geezcodesolutions.netlify.app/)
 
 ✨ *Building community, learning, and creating with purpose.*  
