@@ -5,7 +5,7 @@
 - Co-Founder of **geezcodesolutions**, where I share tools, insights, and cool projects 🧠🚀  
 
 - 🧩 You can connect with me on  
-  [[LinkedIn](https://linkedin.com/in/biniamamanuel), [Twitter](https://x.com/qegnet), or reach me directly via email biniamamanuelt@hotmail.com📧  
+  [[LinkedIn](https://linkedin.com/in/biniamamanuel), [Twitter](https://x.com/qegnet), or reach me directly via email qegnet@gmail.com📧  
 
 - ⚡ I love exploring **automation**, **coding**, and **financial tech** — and I’m always learning something new 📈💡  
 
